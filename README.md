@@ -10,17 +10,19 @@ github: https://github.com/ssh521/laravel11_inertia_vue3.git
 - TailwindCSS
 
 ## Setup
-`cp .env.example to .env`
+```
+composer install
 
-`php artisan key:generate`
+npm install
 
-`composer install`
+cp .env.example .env
 
-`php artisan migrate`
+php artisan key:generate
 
-`npm install`
+php artisan migrate
 
-`npm run dev`
+npm run dev
 
-`php artisan serve`
+php artisan serve
+```
 
