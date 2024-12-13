@@ -20,7 +20,7 @@ cp .env.example .env
 
 php artisan key:generate
 
-database.sqlite 파일 생성
+touch database/database.sqlite
 
 php artisan migrate
 
