@@ -20,6 +20,8 @@ cp .env.example .env
 
 php artisan key:generate
 
+database.sqlite 파일 생성
+
 php artisan migrate
 
 npm run dev
