@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{f as o,o as t}from"./app-DlZAUpx7.js";const c={},n={class:"text-3xl font-bold underline"};function r(s,_){return t(),o("h1",n,"Home")}const l=e(c,[["render",r]]);export{l as default};
